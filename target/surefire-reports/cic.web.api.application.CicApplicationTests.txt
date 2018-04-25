@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: cic.web.api.application.CicApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.178 s - in cic.web.api.application.CicApplicationTests
